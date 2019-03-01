@@ -3,6 +3,7 @@ package com.olegtaranenko.didemo.services;
 import org.springframework.stereotype.Service;
 
 @Service
+
 public class SettingGreetingService implements GreetingService {
 
     @Override
