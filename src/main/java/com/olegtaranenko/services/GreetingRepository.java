@@ -1,4 +1,4 @@
-package com.olegtaranenko.didemo.services;
+package com.olegtaranenko.services;
 
 public interface GreetingRepository extends GreetingService {
     String getEnglishGreeting();

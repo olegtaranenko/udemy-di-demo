@@ -1,4 +1,4 @@
-package com.olegtaranenko.didemo.services;
+package com.olegtaranenko.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Primary;

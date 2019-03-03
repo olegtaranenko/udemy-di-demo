@@ -1,7 +1,7 @@
 package com.olegtaranenko.didemo.controllers;
 
-import com.olegtaranenko.didemo.services.GreetingService;
-import com.olegtaranenko.didemo.services.GreetingServiceImpl;
+import com.olegtaranenko.services.GreetingService;
+import com.olegtaranenko.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 

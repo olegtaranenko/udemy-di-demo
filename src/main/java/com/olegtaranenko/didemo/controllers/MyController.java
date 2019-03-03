@@ -1,7 +1,6 @@
 package com.olegtaranenko.didemo.controllers;
 
-import com.olegtaranenko.didemo.services.GreetingService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.olegtaranenko.services.GreetingService;
 import org.springframework.stereotype.Controller;
 
 @Controller

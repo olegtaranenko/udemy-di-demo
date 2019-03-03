@@ -1,4 +1,4 @@
-package com.olegtaranenko.didemo.services;
+package com.olegtaranenko.services;
 
 import org.springframework.stereotype.Service;
 
