@@ -6,3 +6,11 @@ guru:
 
 #  datasource:
 #    username: Oleg
+
+---
+spring:
+  profiles: de
+
+guru:
+  jms:
+    username: JMS for German User
