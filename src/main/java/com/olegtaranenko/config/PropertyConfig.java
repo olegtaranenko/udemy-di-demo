@@ -17,13 +17,13 @@ public class PropertyConfig {
     @Value("${guru.dburl}")
     String url;
 
-    @Value("${jms.username}")
+    @Value("${guru.jms.username}")
     String jmsUser;
 
-    @Value("${jms.password}")
+    @Value("${guru.jms.password}")
     String jmsPassword;
 
-    @Value("${jms.dburl}")
+    @Value("${guru.jms.dburl}")
     String jmsUrl;
 
 

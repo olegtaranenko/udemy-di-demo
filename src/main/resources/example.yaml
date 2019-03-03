@@ -1,0 +1,27 @@
+# this is a comment
+
+name: Oleg
+
+names: # comment as well
+  - Oleg
+  - John
+  - Paul
+
+
+pound_sign: "#"
+
+book:
+  author: Rod
+  publisher: Wrox
+
+
+truth: yes
+
+another_truth: True
+
+
+more_true: true
+
+false: ne #No false, FALSE
+
+single_val:  This it's a quote

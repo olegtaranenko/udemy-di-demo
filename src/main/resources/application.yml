@@ -1,0 +1,8 @@
+guru:
+  jms:
+    username: JMS Username defined in Yaml
+    password: JMS some YML pass
+    dburl: "url:db:defined:in:yaml"
+
+#  datasource:
+#    username: Oleg
